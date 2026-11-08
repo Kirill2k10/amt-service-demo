@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+.env
+.env.*
+node_modules/
+coverage/
+playwright-report/
+test-results/
+*.log
+*.tmp
+*.bak
+*.zip
